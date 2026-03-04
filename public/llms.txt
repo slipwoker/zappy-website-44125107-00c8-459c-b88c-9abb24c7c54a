@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Get accurate, real-time trading values for every Adopt Me pet. Check mega, neon, and ride variants to ensure fair trades and maximize your collection.
+
+### Platform
+https://example.com/platform
+Discover our powerful platform built for Adopt Me players. Search any pet, compare variants, and access the most trusted value data in the community.
+
+### Methodology
+https://example.com/methodology
+Learn the proven methodology behind our accurate pet valuations. We analyze market trends and community trades to deliver reliable Adopt Me values you can trust.
+
+### Contact
+https://example.com/contact
+Have questions about pet values or need help with the platform? Reach out to our team dedicated to helping Adopt Me players trade smarter and safer.
+
+### Products
+https://example.com/products
+Our Products - conbat
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - conbat
+
+### Category
+https://example.com/category/:slug
+Products - conbat
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
